@@ -1,11 +1,11 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/wuwujian)
+[![wuwujian](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/wuwujian)
 
 He is currently pursuing a Master's Degree in Computer Science, at School of Microelectronics, Shanghai University, China.
 
 #### Email
-sli[at]cumt.edu.cn
+wujian_wu@foxmail.com
 
 #### Education
 M.E., Computer Science and Technology, Shenzhen Technology University, 2021.9—2025.6 (expected).\
