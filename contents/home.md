@@ -1,6 +1,6 @@
 
 
-[![wuwujian](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/wuwujian)
+[![wuwujian](https://img.shields.io/badge/wuwujian-github-blue?logo=github)](https://github.com/wuwujian)
 
 He is currently pursuing a Master's Degree in Computer Science, at School of Microelectronics, Shanghai University, China.
 
