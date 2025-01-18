@@ -14,3 +14,4 @@ B.E., Data Science and Big Data Technology, Shanghai University, 2025.9—2027.1
 #### Research Interests
 Deep Learning, Chemical Sensors.
 
+
