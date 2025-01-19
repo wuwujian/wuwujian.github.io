@@ -1,1 +1,1 @@
-- Lu H.*, Zhang L.*, Jiang J.*, <strong>Wu W.</strong>, etc. Pressure Induced Molecular-arrangement and Charge-density Perturbance in Doped Polymer for Intelligent Motion and Vocal Recognitions[J]. <strong>Advanced Materials</strong>, 2024. (Under review)
+- Lu H.\*, Zhang L.\*, Jiang J.\*, <strong>Wu W.</strong>, etc. Pressure Induced Molecular-arrangement and Charge-density Perturbance in Doped Polymer for Intelligent Motion and Vocal Recognitions[J]. <strong>Advanced Materials</strong>, 2024. (Under review)
