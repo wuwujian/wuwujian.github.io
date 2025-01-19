@@ -1,5 +1,5 @@
-- Lu H.\*, Zhang L.\*, Jiang J.\*, <strong>Wu W.</strong>, etc. Pressure Induced Molecular-arrangement and Charge-density Perturbance in Doped Polymer for Intelligent Motion and Vocal Recognitions[J]. <strong>Advanced Materials</strong>, 2024. (Under review)
 - Intelligent Audio and Video Call System Based on WebRTC, Software Copyright, 2023SR1502642, First Inventor.
+- Lu H.\*, Zhang L.\*, Jiang J.\*, <strong>Wu W.</strong>, etc. Pressure Induced Molecular-arrangement and Charge-density Perturbance in Doped Polymer for Intelligent Motion and Vocal Recognitions[J]. <strong>Advanced Materials</strong>, 2024. (Under review)
 - A Gas Detection Method, System, and Terminal Based on Multimodal Data, Invention Patent, Under Review, Student First Inventor.
 - Intelligent Gas Detection Method, Terminal, and Readable Storage Medium Based on Multi-Sensor Fusion, Invention Patent, Under Review, Student First Inventor.
 - A Distributed Sensing Testing Adaptive Method, System, and Terminal, Invention Patent, Under Review, Co-Inventor.

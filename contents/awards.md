@@ -1,13 +1,9 @@
-- National Scholarship of Graduate Student, 2024.
-
-- First-prize Scholarship of CUMT, 2024.
-
-- First-prize Scholarship of CUMT, 2023.
-
-- Freshman Scholarship of CUMT, 2022.
-
-- Excellent Graduation Project of Jiangsu Province, 2022.
-
-- First-prize Enterprise Scholarship of CUMT, 2020.
-
-- First-prize Scholarship of CUMT, 2019.
+- National Second Prize in the 3rd China Collegiate Big Data Challenge, 2024.
+- Smart VOCs Gas Detection Pioneer, Gold Prize in the China International College Students’ Innovation Competition of SZTU, 2024. Leader.
+- Smart VOCs Gas Detection Pioneer, Bronze Prize in the Guangdong Province Division of the China International College Students’ Innovation Competition, 2024. Leader.
+- Test-Time Adaptation for Autonomous Driving Systems to Address Data Drift, Bronze Prize in the Guangdong Province Division of the China International College Students’ Innovation Competition, 2024. Participant.
+- Second Prize in the 3rd Digital Resource Retrieval Competition of SZTU, 2024.
+- Outstanding Award in Physical Education of SZTU, 2023.
+- Outstanding Award in Physical Education of SZTU, 2022.
+- Outstanding Award in Physical Education of SZTU, 2021.
+- Freshman Scholarship of SZTU, 2021.

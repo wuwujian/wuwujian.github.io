@@ -2,10 +2,14 @@
 
 [![wuwujian](https://img.shields.io/badge/wuwujian-github-blue?logo=github)](https://github.com/wuwujian)
 
-He will  pursue a Master's Degree in Electronic Information, at School of Microelectronics, Shanghai University, China.
+He is currently pursuing a Bachelor's Degree in Computer Science, at College of Big Data and Internet, Shenzhen Technology University, China.
 
 #### Email
-wujian_wu@foxmail.com
+wuwujiann@gmail.com
+
+
+#### Personal Website  
+[www.wuwujian.com](www.wuwujian.com)
 
 #### Education
 M.E., Electronic Information, Shanghai University, 2025.9—2027.12 (expected).\
