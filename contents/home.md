@@ -8,11 +8,11 @@ He will  pursue a Master's Degree in Electronic Information, at School of Microe
 wujian_wu@foxmail.com
 
 #### Education
-M.E., Computer Science and Technology, Shenzhen Technology University, 2021.9—2025.6 (expected).\
-B.E., Electronic Information, Shanghai University, 2025.9—2027.12 (expected).
+M.E., Electronic Information, Shanghai University, 2025.9—2027.12 (expected).\
+B.E., Computer Science and Technology, Shenzhen Technology University, 2021.9—2025.6 (expected).
 
 #### Research Interests
-Deep Learning, Chemical Sensors.
+AI for science of IC
 
 
 
