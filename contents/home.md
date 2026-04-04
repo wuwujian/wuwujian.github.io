@@ -9,7 +9,7 @@ wujian_wu@foxmail.com
 
 #### Education
 Master of Data Science, Data Science, Hubei Center for Applied Mathematics, Wuhan University, 2026.9—2028.6 (expected).\
-Bachelor of Engineering, Computer Science, College of Big Data and Internet, Shenzhen Technology University, 2021.9—2025.6.
+Bachelor of Engineering, Computer Science, School of Artifical Intelligence, Shenzhen Technology University, 2021.9—2025.6.
 #### Research Interests
 Scientific Computing, Machine Learning
 
