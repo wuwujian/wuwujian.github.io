@@ -8,7 +8,7 @@ He received his Bachelor's Degree in Computer Science from Shenzhen Technology U
 wujian_wu@foxmail.com
 
 #### Education
-Master of Data Science, Data Science, Hubei Center for Applied Mathematics, Wuhan University, 2026.9—2028.6 (expected).\
+Master of Data Science, Hubei Center for Applied Mathematics, Wuhan University, 2026.9—2028.6 (expected).\
 Bachelor of Engineering, Computer Science, School of Artifical Intelligence, Shenzhen Technology University, 2021.9—2025.6.
 #### Research Interests
 Scientific Computing, Machine Learning
