@@ -2,20 +2,16 @@
 
 <!-- [![wuwujian](https://img.shields.io/badge/wuwujian-github-blue?logo=github)](https://github.com/wuwujian) -->
 
-He is currently pursuing a Bachelor's Degree in Computer Science, at College of Big Data and Internet, Shenzhen Technology University, China.
+He received his Bachelor's Degree in Computer Science from Shenzhen Technology University, China. He will pursue a Master's Degree in Data Science at Hubei Center for Applied Mathematics, Wuhan University, China, starting in 2026.
 
 #### Email
-wuwujiann@gmail.com
-
-<!-- #### Personal Website  
-[www.wuwujian.com](https://www.wuwujian.com) -->
+wujian_wu@foxmail.com
 
 #### Education
-M.E., Electronic Information, Sino-swiss Institute of Advanced Technology, Shanghai University, 2025.9—2027.12 (expected).\
-B.E., Computer Science, College of Big Data and Internet, Shenzhen Technology University, 2021.9—2025.6 (expected).
-
+Master of Data Science, Data Science, Hubei Center for Applied Mathematics, Wuhan University, 2026.9—2028.6 (expected).\
+Bachelor of Engineering, Computer Science, College of Big Data and Internet, Shenzhen Technology University, 2021.9—2025.6.
 #### Research Interests
-AI for science of IC
+Scientific Computing, Machine Learning
 
 
 
