@@ -2,7 +2,7 @@
 
 <!-- [![wuwujian](https://img.shields.io/badge/wuwujian-github-blue?logo=github)](https://github.com/wuwujian) -->
 
-He received his Bachelor's Degree in Computer Science from Shenzhen Technology University. He will pursue a Master's Degree in Data Science at Hubei Center for Applied Mathematics, Wuhan University, China, starting in 2026.
+He received his Bachelor's Degree in Computer Science from Shenzhen Technology University. He will pursue a Master's Degree in Data Science at Hubei Center for Applied Mathematics, Wuhan University, China, starting in September 2026.
 
 #### Email
 wujian_wu@foxmail.com
