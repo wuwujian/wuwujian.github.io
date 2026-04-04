@@ -6,13 +6,13 @@
 - Smart VOCs Gas Detection Pioneer, Gold Prize in the China International College Students’ Innovation Competition of SZTU, Principal Investigator, 2024.
 - Smart VOCs Gas Detection Pioneer, Bronze Prize in the Guangdong Province Division of the China International College Students’ Innovation Competition, Principal Investigator, 2024.
 - Test-Time Adaptation for Autonomous Driving Systems to Address Data Drift, Bronze Prize in the Guangdong Province Division of the China International College Students’ Innovation Competition, Participant, 2024.
-- Second Prize in the 3rd Digital Resource Retrieval Competition of SZTU, Partcipant, 2024.
 - Intelligent Audio and Video Call System Based on WebRTC, 2023.5 - 2024.5, the University-level Undergraduate Innovation and Entrepreneurship Training Program, <strong>Funding Amount: RMB 8,000, Principal Investigator</strong>.
 
-- Outstanding Award in Physical Education of SZTU, 2023.
 - Freshman Scholarship of SZTU, 2021.
 <!-- - Outstanding Award in Physical Education of SZTU, 2022.
 - Outstanding Award in Physical Education of SZTU, 2021. -->
+<!-- - Second Prize in the 3rd Digital Resource Retrieval Competition of SZTU, Partcipant, 2024. -->
+<!-- - Outstanding Award in Physical Education of SZTU, 2023. -->
 
 
 
