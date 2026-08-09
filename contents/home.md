@@ -1,14 +1,14 @@
 <!-- GitHub Badge -->
 [![wuwujian](https://img.shields.io/badge/wuwujian-github-blue?logo=github)](https://github.com/wuwujian)
 
-He received his Bachelor's Degree in Computer Science from Shenzhen Technology University. He is currently pursuing a Master's Degree in Data Science at the Hubei Center for Applied Mathematics, Wuhan University.
+He received his Bachelor's Degree in Computer Science from Shenzhen Technology University. He is currently pursuing a Master's Degree in Data Science at Hubei Center for Applied Mathematics, Wuhan University.
 
 #### Email
 me@wuwujian.com
 
 #### Education
-**Master of Data Science**, the Hubei Center for Applied Mathematics, Wuhan University, 2026.9—2028.6 (Currently based at).\
+**Master of Data Science**, Hubei Center for Applied Mathematics, Wuhan University, 2026.9—2028.6 (Expected).\
 **Bachelor of Engineering** in Computer Science, School of Artificial Intelligence, Shenzhen Technology University, 2021.9—2025.6.
 
 #### Research Interests
-Scientific Computing, Machine Learning
+Scientific Computing, LLM
