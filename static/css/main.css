@@ -137,13 +137,13 @@ section .main-body strong {
 }
 
 #avatar img {
-    height: max(130px,min(200px,calc(100vw/6)));
-    width: max(130px,min(200px,calc(100vw/6)));
+    height: max(160px,min(240px,calc(100vw/5)));
+    width: max(160px,min(240px,calc(100vw/5)));
     box-shadow: 0 12px 40px rgba(17, 87, 64, 0.35);
     border: 4px solid #ffffff;
     border-radius: 50%;
     object-fit: cover;
-    object-position: center 20%;
+    object-position: center top;
     transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
 
